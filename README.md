@@ -1,6 +1,6 @@
 # About Lab  
 $\textbf{Course}$  
-Deep Reinforcement Learning (Jan 2024)
+Deep Reinforcement Learning (Jan 2025)
 
 $\textbf{Lecturer}$  
 Assoc.Prof. Dr.Mongkol Ekpanyapong  
@@ -13,7 +13,14 @@ Python
 
 $\textbf{Lab Session Outlines}$  
 01 - Setup and Introduction to RL  
-02 - TBD  
+02 - Markov Decision Process
+03 - Monte Carlo Methods
+04 - Temporal Difference
+05 - Creating Your Own Environment
+06 - Deep Q Learning
+07 - Function Approximation and DDQN
+08 - Actor Critic
+09 - PPO and DDPG
 
 $\textbf{Python Basics}$  
 - https://github.com/l-kuo/DLCV-Lab (Please learn the first 3 labs)  
