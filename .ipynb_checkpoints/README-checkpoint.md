@@ -1,9 +1,9 @@
 # About Lab  
 $\textbf{Course}$  
-Deep Reinforcement Learning (Jan 2025)
+Deep Reinforcement Learning (January 2026)
 
 $\textbf{Lecturer}$  
-Assoc.Prof. Dr.Mongkol Ekpanyapong  
+Prof. Dr.Mongkol Ekpanyapong  
 
 $\textbf{Teaching Assistant}$  
 Lin Tun Naing  
@@ -32,10 +32,11 @@ $\textbf{References}$
 - https://huggingface.co/learn/deep-rl-course/unit0/introduction (Huggingface)
 - https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps (Robotic AI & Learning Lab at UC Berkeley)  
 - https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZCRwoyGxvQkqVrZgDQi4m-5 (Google DeepMind)  
-- ChatGPT (OpenAI)
+- Gemini
+- ChatGPT
 
 ### How to Install Git
-Please follow the instruction from below link. Complete until the step 3. If you want to understand more about Git, you can complete all steps but not necessary for this lab. 
+Please follow the instruction from below link. Complete until the step 3. If you want to understand more about Git, you can complete all steps but it is not required for this lab. 
 It is recommended to create the Git account with your own personal email address since you will be using throughout your career even after your degree.  
 https://www.freecodecamp.org/news/introduction-to-git-and-github/  
 
